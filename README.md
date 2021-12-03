@@ -58,7 +58,7 @@ We have the following conclusion:
 ---
 ## Contributors 
 - Jheel Gala 
-- Apeksha Hedge
+- Apeksha Hegde
 --- 
 ## Acknowledgement
 We would like to thanks Prof. Vaibhav Vasani and Prof. Swapnil Pawar for the guidance and support throughout the coursework.
