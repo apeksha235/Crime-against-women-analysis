@@ -1,7 +1,7 @@
 # Analysis on ```crime against women in India from 2008-2012``` 
 ## Screenshots of our story created on ```Tableau``` 
 
-- Introduction 
+- Introduction :
 
 ![image](https://user-images.githubusercontent.com/84583787/144642212-998e176f-4fe9-4d68-9ad7-82436546f088.png)
 
