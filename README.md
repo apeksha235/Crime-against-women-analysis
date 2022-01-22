@@ -57,7 +57,7 @@ We have the following conclusion:
 
 ---
 ## Contributors 
-- Jheel Gala 
+- [Jheel Gala](https://github.com/jheel0802) 
 - Apeksha Hegde
 --- 
 ## Acknowledgement
